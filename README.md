@@ -45,3 +45,8 @@ Visualisations included:
 Accuracy vs Tree Depth graph
 Shallow tree (underfitting)
 Deep tree (overfitting)
+
+References:
+* Tutorials
+*  Stack Overflow posts
+*  lecture notes
